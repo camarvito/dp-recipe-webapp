@@ -37,7 +37,7 @@ yarn install
 Run the application in development mode:
 
 ```bash
-yarn start
+yarn dev
 ```
 
 Open http://localhost:3000 (or the port specified) to view it in the browser.
