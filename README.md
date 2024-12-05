@@ -47,8 +47,8 @@ Note: If the frontend is running on the same port as the backend (3001), you may
 
 **Technologies Used**
 
-React: Frontend library for building user interfaces.
-Styled-Components: CSS-in-JS library for styling React components.
-React Router: Library for routing in React applications.
-Framer Motion: Library for animations in React.
-LocalStorage: Browser storage for persisting favorite recipes.
+- React: Frontend library for building user interfaces.
+- Styled-Components: CSS-in-JS library for styling React components.
+- React Router: Library for routing in React applications.
+- Framer Motion: Library for animations in React.
+- LocalStorage: Browser storage for persisting favorite recipes.
